@@ -1,0 +1,5 @@
+mantis\steps\TaskSteps.class
+mantis\pages\TaskPage.class
+mantis\runners\TestRunner.class
+mantis\utils\DriverManager.class
+mantis\pages\LoginPage.class
